@@ -14,6 +14,7 @@ Just Download The Github Repo as a Zip
 And Seperate then Configure then Setup
 > [!TIP]
 > Recomended to Use Vercel
+> Due to Free Tier and High Quality
 
 
 
