@@ -10,8 +10,10 @@ EzMovie Is a System Designed to make Movies in Roblox Ez.
 
 # Setup
 Setting Up EzMovie is Actually Easy!
-1. Download The Github Repo as a Zip
-Now this is 
+Just Download The Github Repo as a Zip
+And Seperate then Configure then Setup
+> [!TIP]
+> Recomended to Use Vercel
 
 
 
