@@ -2,8 +2,8 @@
 EzMovie Is a System Designed to make Movies in Roblox Ez.
 
 
-[!NOTE]
-If You are Using EzMovie For A Commercial Game Please Gain a EzMovie Licence at Nexa Softworks Support
+> [!NOTE]
+> If You are Using EzMovie For A Commercial Game Please Gain a EzMovie Licence at Nexa Softworks Support
 
 
 
@@ -46,8 +46,8 @@ If You are Using EzMovie For A Commercial Game Please Gain a EzMovie Licence at 
 
 
 
-[!IMPORTANT]
-Nexa Softworks Support Email is: nexasoftworksrblx@gmail.com
+> [!IMPORTANT]
+> Nexa Softworks Support Email is: nexasoftworksrblx@gmail.com
 
 
 
