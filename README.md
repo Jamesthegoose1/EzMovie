@@ -2,7 +2,7 @@
 EzMovie Is a System Designed to make Movies in Roblox Ez.
 
 EzMovie is a lightweight system built to Adding Movies into Roblox *stupidly easy*.  
-Drop it into your project, set it up, and you’re moviemaking in no time.
+Drop it into your project, set it up, and you’re Watchin Movies in no time.
 
 
 > [!NOTE]
